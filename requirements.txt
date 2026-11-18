@@ -1,0 +1,10 @@
+numpy
+pandas
+openpyxl
+scipy
+matplotlib
+seaborn
+scikit-learn
+mne
+tensorflow
+protobuf>=6.31.1,<7.0.0
