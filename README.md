@@ -21,6 +21,14 @@ Datasets are read from local folders next to the notebooks. The paths are set in
 | `MODMA3/` | `manavrajpurohit_modma_dataset_path` | Kaggle `manavrajpurohit/modma-dataset` |
 | `results/` | | Output folder |
 
+### Download links
+
+| Folder | Link |
+| :--- | :--- |
+| `Depression-Rest/` | https://www.kaggle.com/datasets/tocodeforsoul/depression-rest-preprocessed/data |
+| `Depression Rest - metadata/` | https://unmm-my.sharepoint.com/personal/jcavanagh_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjcavanagh%5Funm%5Fedu%2FDocuments%2FDepression%20Rest&ga=1 |
+| `MODMA3/` | https://www.kaggle.com/datasets/manavrajpurohit/modma-dataset |
+
 ### Depression-REST
 - Files: `<subject>_Depression_REST-epo-feat-v1.npy` / `-v2.npy`.
 - Each file holds 12 blocks of shape `(epochs, 62 channels, 31 features)`.
